@@ -3,7 +3,7 @@ OPA, meu nome é Matheus, tenho 24 anos, fissurado em computadores e tecnologia,
 👀 Alguns Hobbies meus:
 - Desenhos: Costumo esporadicamente fazer desenhos, com preferências mais no estilo Monocromático com ocasionais uso de cores
 - Videogames: FPS, MMORPG, RTS e Indies
-- Livros: Mangás e Manhwas no geral mas com preferencia em Dark Fantasy e Romance, Livros de Ficção Científica, Fantasia Medieval ou Terro
+- Livros: Mangás e Manhwas no geral mas com preferencia em Dark Fantasy e Romance, Livros de Ficção Científica, Fantasia Medieval ou Terror
 - Filmes: Drama, Policial e Ficção Científica e ocasionais Séries
 
 🌱 Atualmemnte aprendendo linguagem C# e Banco de Dados MySQL no Senac SP e Buscando aprender Python de maneira Autodidata
